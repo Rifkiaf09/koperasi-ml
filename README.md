@@ -24,3 +24,5 @@ A data-driven app that helps cooperatives segment users based on transaction beh
 ```bash
 pip install -r requirements.txt
 streamlit run dashboard/streamlit_app.py
+
+https://koperasi-ml-jh5b4pfhzudcjsrbxkrb7p.streamlit.app/
